@@ -11,7 +11,7 @@
 1. **PowerBi Visuals (.pbix)**  
    <p align="justify">This file contains the Power BI reports and visualizations generated from the dataset. It includes charts, graphs, and dashboards that provide a visual representation of the analyzed data. Use this file to gain insights and understand trends in the data.</p>
 
-2. **Project Documentation (.pdf)**  
+2. **Project Documentation (.pptx)**  
    <p align="justify">This file provides detailed documentation of the project, including methodologies, data sources, analysis techniques, and findings. It is designed to help you understand the scope of the analysis and the context behind the visualizations.</p>
 
 ## Analysis Scope
@@ -32,7 +32,7 @@ The analysis covers the following dimensions:
    <p align="justify">To view the visualizations, open the Power BI file (.pbix) using Power BI Desktop. Explore the various dashboards and reports to gain insights into the data.</p>
 
 2. **Review Project Documentation**  
-   <p align="justify">Refer to the Project Documentation file (.pdf) to understand the methodology used for the analysis. It includes details on data sources, analysis techniques, and key findings.</p>
+   <p align="justify">Refer to the Project Documentation file (.pptx) to understand the methodology used for the analysis. It includes details on data sources, analysis techniques, and key findings.</p>
 
 ## How to Contribute
 
